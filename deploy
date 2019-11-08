@@ -1,0 +1,6 @@
+select * from emp where ename 'sal';
+do
+{
+some code
+
+}
